@@ -3,4 +3,4 @@
 
 <img width="499" alt="Screenshot 2023-05-01 211500" src="https://user-images.githubusercontent.com/42666741/235480841-9e4aa259-0a69-42b2-bf61-39b3e99f42a2.png">
 
-### Link to my blog on Shell scripting mini project🧷 https://noobdevblog.hashnode.dev/shell-scripting-mini-project
+### Link to my blog post on Shell scripting mini project🧷 https://noobdevblog.hashnode.dev/shell-scripting-mini-project
