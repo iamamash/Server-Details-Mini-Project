@@ -36,5 +36,5 @@ echo -e "${ITALICYELLOW}    RAM utilization      :${ENDCOLOR} ${ITALICWHITE} $(f
 echo -e "${ITALICRED}##################################################################${ENDCOLOR}"
 
 echo -e "${BOLDMAGENTA}\n----------------------------***----------------------------------\n${ENDCOLOR}"
-echo -e "${ITALICYELLOW}Top CPU Processes running : ${ENDCOLOR}${ITALICWHITE}"  && top -b | head -10
+echo -e "${ITALICYELLOW}Top CPU Processes running : ${ENDCOLOR}${ITALICWHITE}"  $(top -b | head -10)
 echo -e "${BOLDMAGENTA}\n----------------------------***---------------------------------\n${ENDCOLOR}"
